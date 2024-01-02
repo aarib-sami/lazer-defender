@@ -71,6 +71,14 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
+.vs/
+Library/
+Temp/
+Logs/
+obj/
+UserSettings/
+catch-the-icicle/
+
 # Ignore all HLSL files
 *.hlsl
 *.shader
